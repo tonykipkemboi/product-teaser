@@ -6,11 +6,9 @@ It is the method behind the Rekody "Someday" teaser. You can see the finished re
 
 ## Watch
 
-The video below was built entirely with this skill: the product UI rebuilt in HTML/GSAP, beat-synced to music and a real voice, opening on a human moment and closing on a CTA. Press play.
+Built entirely with this skill: the product UI rebuilt in HTML/GSAP, beat-synced to music and a real voice, opening on a human moment and closing on a CTA. Click to play (30 seconds).
 
-<video src="https://github.com/tonykipkemboi/product-teaser/raw/main/media/someday-teaser.mp4" poster="https://github.com/tonykipkemboi/product-teaser/raw/main/media/poster.jpg" controls width="720"></video>
-
-If the player does not load, [watch the file directly](https://github.com/tonykipkemboi/product-teaser/raw/main/media/someday-teaser.mp4).
+[![Watch the teaser](media/poster-play.jpg)](https://github.com/tonykipkemboi/product-teaser/blob/main/media/someday-teaser.mp4)
 
 ## What it is
 
