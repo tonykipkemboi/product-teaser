@@ -4,6 +4,14 @@ A [Claude Code](https://claude.com/claude-code) skill for building **cinematic, 
 
 It is the method behind the Rekody "Someday" teaser. You can see the finished result at [rekody.com](https://rekody.com).
 
+## Watch
+
+The video below was built entirely with this skill: the product UI rebuilt in HTML/GSAP, beat-synced to music and a real voice, opening on a human moment and closing on a CTA. Press play.
+
+<video src="https://github.com/tonykipkemboi/product-teaser/raw/main/media/someday-teaser.mp4" poster="https://github.com/tonykipkemboi/product-teaser/raw/main/media/poster.jpg" controls width="720"></video>
+
+If the player does not load, [watch the file directly](https://github.com/tonykipkemboi/product-teaser/raw/main/media/someday-teaser.mp4).
+
 ## What it is
 
 A clean, repeatable *clear path* from product UI to finished teaser, plus one worked example as a reference. It is method, not code you run: the skill guides an agent (or you) through the phases and flags the framework gotchas that would otherwise ship a broken render.
